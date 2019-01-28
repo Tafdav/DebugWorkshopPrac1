@@ -9,3 +9,14 @@
 /home/derik/workshops/debugws/obj/Debug/netcoreapp2.2/debugws.AssemblyInfo.cs
 /home/derik/workshops/debugws/obj/Debug/netcoreapp2.2/debugws.dll
 /home/derik/workshops/debugws/obj/Debug/netcoreapp2.2/debugws.pdb
+C:\Retro\25-01-2019\DebugWorkshopPrac1\bin\Debug\netcoreapp2.2\debugws.deps.json
+C:\Retro\25-01-2019\DebugWorkshopPrac1\bin\Debug\netcoreapp2.2\debugws.runtimeconfig.json
+C:\Retro\25-01-2019\DebugWorkshopPrac1\bin\Debug\netcoreapp2.2\debugws.runtimeconfig.dev.json
+C:\Retro\25-01-2019\DebugWorkshopPrac1\bin\Debug\netcoreapp2.2\debugws.dll
+C:\Retro\25-01-2019\DebugWorkshopPrac1\bin\Debug\netcoreapp2.2\debugws.pdb
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.csprojAssemblyReference.cache
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.csproj.CoreCompileInputs.cache
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.AssemblyInfoInputs.cache
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.AssemblyInfo.cs
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.dll
+C:\Retro\25-01-2019\DebugWorkshopPrac1\obj\Debug\netcoreapp2.2\debugws.pdb
